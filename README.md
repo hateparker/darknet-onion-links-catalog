@@ -45,7 +45,7 @@ The TOR darknet, or dark web, is a hidden online network accessed through the [T
 
 | Name | URL |
 | --- | --- |
-| Nemesis Market  | [nemesis2ava6qmxwvxtd7yn6zgvl4tvzs47v77ttccd5wk7uf33wqbyd.onion](http://nemesis2ava6qmxwvxtd7yn6zgvl4tvzs47v77ttccd5wk7uf33wqbyd.onion) |
+| Nexus Market  | [nexus555cee4hmu5yimuzlvx3cjr2b7wacvzfv5bj4ht53i2jeegxlyd.onion](http://nexus555cee4hmu5yimuzlvx3cjr2b7wacvzfv5bj4ht53i2jeegxlyd.onion) |
 | Incognito Market  | [incognito75yd2w2qylg7xadz2rd7o2peqt5gcvmd2irxqbqj7c6exid.onion](http://incognito75yd2w2qylg7xadz2rd7o2peqt5gcvmd2irxqbqj7c6exid.onion) |
 | Archetyp Market | [aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion](http://aurora7t7en7racqbytspft6myxds25hnczjk56tvqev2bziir74t4yd.onion) |
 | Cannabia Market  | [w7w4zvoj4me326q3fmfhw2aer6xf3dlu6w25w5fmmr4rak5xgqmlwcqd.onion](http://w7w4zvoj4me326q3fmfhw2aer6xf3dlu6w25w5fmmr4rak5xgqmlwcqd.onion) |
